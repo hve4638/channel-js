@@ -1,0 +1,17 @@
+.vscode/
+node_modules/
+
+# lock files
+package-lock.json
+yarn.lock
+
+# output
+dist/
+
+# test
+coverage/
+
+# misc
+.npmrc
+.tsbuildinfo*
+.rollup.cache
